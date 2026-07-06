@@ -88,7 +88,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jawahar08&theme=tokyonight&hide_border=false" width="100%" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jawahar08&theme=tokyonight&hide_border=false" width="100%" alt="Contribution Streak" />
 </div>
 <br>
 
