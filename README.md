@@ -39,25 +39,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬&font=Fira+Code&center=true&width=1000&height=20&color=bb9af7&vCenter=true&pause=1000&size=20&duration=2500" alt="Animated Line Divider" />
-</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> Featured Projects
-
-> **[🎯 InterviewForge AI](#)**  
-> *Spring Boot | React | JWT Auth | MySQL | Generative AI*  
-> An AI-powered interview preparation platform built to simulate real-world interviews, provide instant feedback, and accelerate career readiness.
-
-> **[🗄️ NL to Database Schema Generator](#)**  
-> *Natural Language Processing | SQL*  
-> Converts plain English requirements seamlessly into optimized database schemas and instant SQL initialization scripts.
-
-> **[❤️ LoveVerse](#)**  
-> *UI/UX | Interactive Storytelling*  
-> An interactive storytelling and memory-sharing platform designed with an immersive user experience.
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬&font=Fira+Code&center=true&width=1000&height=20&color=bb9af7&vCenter=true&pause=1000&size=20&duration=2500" alt="Animated Line Divider" />
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Technology Arsenal
 
