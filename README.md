@@ -1,6 +1,6 @@
 # Jawahar Bharathi
 
-## Full Stack Developer
+### Full Stack Developer
 
 Building scalable web applications, AI-powered solutions, and SaaS products.
 
