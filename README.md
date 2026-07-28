@@ -1,14 +1,15 @@
 # Jawahar Bharathi
 
-### Full Stack Developer
+### Full Stack Developer | AI Engineer
 
-Building scalable web applications, AI-powered solutions, and SaaS products.
+Building scalable web applications, AI-powered systems, and production-ready SaaS products.
 
-- 🚀 Full Stack Development with Java, Spring Boot, React, and Next.js
-- 🤖 Building AI-powered applications using LLMs and RAG
-- 📚 Learning System Design, Cloud Technologies, and Software Architecture
+- 🚀 Developing full-stack applications with Java, Spring Boot, React, Next.js, and TypeScript
+- 🤖 Building AI solutions using LLMs, RAG, Computer Vision, and Explainable AI
+- 🏗️ Designing scalable backend systems with PostgreSQL, Redis, Docker, and Kubernetes
+- 📚 Exploring System Design, Microservices, Cloud Technologies, and Software Architecture
 
-**Tech:** Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • REST APIs • Docker • Git
+**Tech:** Java • Spring Boot • Spring Security • React • Next.js • TypeScript • Python • PostgreSQL • Redis • Docker • Kubernetes • REST APIs • Git • GitHub • AI/ML
 
 ### Links
 
