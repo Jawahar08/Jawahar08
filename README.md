@@ -1,4 +1,4 @@
-# Jawahar Bharathi
+# Jawahar Bharathi C
 
 ### Full Stack Developer | AI Engineer
 
